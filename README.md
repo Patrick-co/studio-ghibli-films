@@ -2,9 +2,8 @@
 This Studio Ghibli Films applications is a Command Line Interface (CLI) using the Studio Ghibli Application Programming Interface (API) to search the classic films by title, and  obtain their details. Details which include the film's release date, a description of the film, the producer, and director.
 
 <h2>Development</h2>
+After checking out the repo, run 'bin/setup/ to install dependencies. You can also run 'bin/console' for an interactive prompt that will allow you to experiment.
 
-
-<h2>Deployment</h2>
 
 
 <h2>Built With</h2>
