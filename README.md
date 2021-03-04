@@ -7,6 +7,9 @@ After checking out the repo, run 'bin/setup/ to install dependencies. You can al
 <h2>Built With</h2>
 Visual Studio Code
 
+<h2>Support</h2>
+If you need any assistance, you can always personally reach out to myself through Github or my email: patricktaylec@gmail.com 
+
 <h2>Contributing</h2>
 Bug reports and pull requests are welcome on GitHub at https://github.com/Patrick-co/studio-ghibli-films/. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the code of conduct.
 
